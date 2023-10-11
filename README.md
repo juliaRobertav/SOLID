@@ -1,3 +1,3 @@
 # SOLID
 
-[Link para o GitBooks](https://julinha.gitbook.io/s.o.l.i.d/)
+[Link para o GitBooks - Para entender melhor!](https://julinha.gitbook.io/solid/)
