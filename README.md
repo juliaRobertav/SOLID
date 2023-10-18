@@ -1,5 +1,7 @@
 [WIKI!](https://github.com/juliaRobertav/SOLID/wiki)
 
+[Para acessar meu GitBook caso queira ver melhor!](https://julinha.gitbook.io/solid/)
+
 ---
 description: SOLID Princípios e Exemplos
 ---
