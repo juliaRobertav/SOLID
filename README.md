@@ -1,14 +1,14 @@
-[WIKI!](https://github.com/juliaRobertav/SOLID/wiki)
-
-[Para acessar meu GitBook caso queira ver melhor!](https://julinha.gitbook.io/solid/)
-
----
-description: SOLID Princípios e Exemplos
----
-
 # S.O.L.I.D
 
-<mark style="color:blue;">O que é SOLID</mark>&#x20;
+[WIKI](https://github.com/juliaRobertav/SOLID/wiki) (link)
+
+***
+
+### description: SOLID Princípios e Exemplos
+
+## S.O.L.I.D
+
+<mark style="color:blue;">O que é SOLID</mark>
 
 Os 5 princípios da POO
 
@@ -22,11 +22,7 @@ I — Interface Segregation Principle (Princípio da Segregação da Interface)
 
 D — Dependency Inversion Principle (Princípio da inversão da dependência)
 
-
-
 São princípios e boas práticas que visam melhorar a arquitetura e design de um projeto, além de ter como intuito facilitar a manutenção e compreensão, ajudando a escrever códigos mais limpos, separando responsabilidades, e estimulando o reaproveitamento do código. ​
-
-
 
 Referências
 
